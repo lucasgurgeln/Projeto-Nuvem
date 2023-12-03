@@ -77,6 +77,10 @@ Estabelece a VPC e os componentes relacionados à rede:
 - Monitorize os custos e a utilização dos recursos AWS.
 - Utilize `terraform destroy` para descomissionar a infraestrutura, se necessário.
 
+## Diagrama da Arquitetura AWS
+
+![Diagrama da Arquitetura AWS](diagrama-projeto.png)
+
 ## Conclusão
 
 Esta documentação visa fornecer uma compreensão clara da infraestrutura AWS configurada para o projeto, facilitando a implantação, a manutenção e o escalonamento eficazes dos recursos. É essencial seguir as melhores práticas de segurança e estar atento aos custos associados aos serviços AWS.
