@@ -81,6 +81,10 @@ Estabelece a VPC e os componentes relacionados à rede:
 
 ![Diagrama da Arquitetura AWS](diagrama-projeto.png)
 
+## Link do vídeo testando
+
+[Vídeo do Projeto](https://youtu.be/ZfS7Z--QY5s)
+
 ## Conclusão
 
 Esta documentação visa fornecer uma compreensão clara da infraestrutura AWS configurada para o projeto, facilitando a implantação, a manutenção e o escalonamento eficazes dos recursos. É essencial seguir as melhores práticas de segurança e estar atento aos custos associados aos serviços AWS.
